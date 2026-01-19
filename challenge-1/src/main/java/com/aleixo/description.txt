@@ -1,0 +1,9 @@
+Leia uma lista de números informados pelo usuário (por exemplo: entrada digitada, leitura de arquivo opcional ou parâmetros).
+Calcule automaticamente:
+
+✔️ A soma dos valores
+✔️ A média
+✔️ O maior número
+✔️ O menor número
+
+Exiba os resultados de forma organizada e formatada, deixando claro para o usuário cada dado.
